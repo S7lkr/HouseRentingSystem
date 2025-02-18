@@ -9,9 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HouseRentingSystem.Web", "H
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HouseRentingSystem.Tests", "HouseRentingSystem.Tests\HouseRentingSystem.Tests.csproj", "{30EAC5CD-4738-49AC-8D8B-7742D296C306}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{ECDF66FC-134A-4B58-83CE-57DD4AA08418}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8730ED9C-FA0A-4901-BE3B-2346F3EA5DC8}"
 	ProjectSection(SolutionItems) = preProject
-		.github\workflows\build_test.yml = .github\workflows\build_test.yml
+		Jenkinsfile = Jenkinsfile
 	EndProjectSection
 EndProject
 Global
